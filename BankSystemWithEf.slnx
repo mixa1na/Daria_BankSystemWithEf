@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+    <File Path="ooad.md" />
+    <File Path="entity-framework-core.md" />
+  </Folder>
+  <Project Path="BankSystem.EF/BankSystem.EF.csproj" />
+  <Project Path="BankSystem.Services/BankSystem.Services.csproj" />
+  <Project Path="BankSystem.Tests/BankSystem.Tests.csproj" />
+</Solution>
